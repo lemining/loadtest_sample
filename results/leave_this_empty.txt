@@ -1,0 +1,1 @@
+All results will be dropped in this folder. Keep this file so that the folder doesn't get truncated by git etc.

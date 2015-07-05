@@ -1,0 +1,216 @@
+2015/07/02 17:56:52 INFO  - jmeter.util.JMeterUtils: Setting Locale to en_AU 
+2015/07/02 17:56:52 INFO  - jmeter.JMeter: Loading user properties from: C:\Dev\Sca.WebCMS\Testing\tools\apache-jmeter-2.13\bin\user.properties 
+2015/07/02 17:56:52 INFO  - jmeter.JMeter: Loading system properties from: C:\Dev\Sca.WebCMS\Testing\tools\apache-jmeter-2.13\bin\system.properties 
+2015/07/02 17:56:52 INFO  - jmeter.JMeter: Copyright (c) 1998-2015 The Apache Software Foundation 
+2015/07/02 17:56:52 INFO  - jmeter.JMeter: Version 2.13 r1665067 
+2015/07/02 17:56:52 INFO  - jmeter.JMeter: java.version=1.8.0_45 
+2015/07/02 17:56:52 INFO  - jmeter.JMeter: java.vm.name=Java HotSpot(TM) Client VM 
+2015/07/02 17:56:52 INFO  - jmeter.JMeter: os.name=Windows 8.1 
+2015/07/02 17:56:52 INFO  - jmeter.JMeter: os.arch=x86 
+2015/07/02 17:56:52 INFO  - jmeter.JMeter: os.version=6.3 
+2015/07/02 17:56:52 INFO  - jmeter.JMeter: file.encoding=Cp1252 
+2015/07/02 17:56:52 INFO  - jmeter.JMeter: Default Locale=English (Australia) 
+2015/07/02 17:56:52 INFO  - jmeter.JMeter: JMeter  Locale=English (Australia) 
+2015/07/02 17:56:52 INFO  - jmeter.JMeter: JMeterHome=C:\Dev\Sca.WebCMS\Testing\tools\apache-jmeter-2.13 
+2015/07/02 17:56:52 INFO  - jmeter.JMeter: user.dir  =C:\Dev\Sca.WebCMS\Testing\tools\apache-jmeter-2.13\bin 
+2015/07/02 17:56:52 INFO  - jmeter.JMeter: PWD       =C:\Dev\Sca.WebCMS\Testing\tools\apache-jmeter-2.13\bin 
+2015/07/02 17:56:52 INFO  - jmeter.JMeter: IP: 172.22.225.147 Name: SYD-DIG-TB01 FullName: SYD-DIG-TB01.macsc.net.au 
+2015/07/02 17:56:53 INFO  - jmeter.gui.action.LookAndFeelCommand: Using look and feel: javax.swing.plaf.metal.MetalLookAndFeel [Metal, CrossPlatform] 
+2015/07/02 17:56:53 INFO  - jmeter.JMeter: Loaded icon properties from org/apache/jmeter/images/icon.properties 
+2015/07/02 17:56:54 INFO  - jmeter.engine.util.CompoundVariable: Note: Function class names must contain the string: '.functions.' 
+2015/07/02 17:56:54 INFO  - jmeter.engine.util.CompoundVariable: Note: Function class names must not contain the string: '.gui.' 
+2015/07/02 17:56:55 INFO  - jmeter.util.BSFTestElement: Registering JMeter version of JavaScript engine as work-round for BSF-22 
+2015/07/02 17:56:56 INFO  - jmeter.protocol.http.sampler.HTTPSamplerBase: Cannot find .className property for htmlParser, using default 
+2015/07/02 17:56:56 INFO  - jmeter.protocol.http.sampler.HTTPSamplerBase: Parser for text/html is  
+2015/07/02 17:56:56 INFO  - jmeter.protocol.http.sampler.HTTPSamplerBase: Parser for application/xhtml+xml is  
+2015/07/02 17:56:56 INFO  - jmeter.protocol.http.sampler.HTTPSamplerBase: Parser for application/xml is  
+2015/07/02 17:56:56 INFO  - jmeter.protocol.http.sampler.HTTPSamplerBase: Parser for text/xml is  
+2015/07/02 17:56:56 INFO  - jmeter.protocol.http.sampler.HTTPSamplerBase: Parser for text/vnd.wap.wml is org.apache.jmeter.protocol.http.parser.RegexpHTMLParser 
+2015/07/02 17:56:56 INFO  - jmeter.gui.util.MenuFactory: Skipping org.apache.jmeter.protocol.http.control.gui.WebServiceSamplerGui 
+2015/07/02 17:56:56 INFO  - jmeter.gui.util.MenuFactory: Skipping org.apache.jmeter.protocol.http.modifier.gui.ParamModifierGui 
+2015/07/02 17:56:56 INFO  - jorphan.exec.KeyToolUtils: keytool found at 'keytool' 
+2015/07/02 17:56:56 INFO  - jmeter.protocol.http.proxy.ProxyControl: HTTP(S) Test Script Recorder SSL Proxy will use keys that support embedded 3rd party resources in file C:\Dev\Sca.WebCMS\Testing\tools\apache-jmeter-2.13\bin\proxyserver.jks 
+2015/07/02 17:56:58 INFO  - jmeter.samplers.SampleResult: Note: Sample TimeStamps are START times 
+2015/07/02 17:56:58 INFO  - jmeter.samplers.SampleResult: sampleresult.default.encoding is set to ISO-8859-1 
+2015/07/02 17:56:58 INFO  - jmeter.samplers.SampleResult: sampleresult.useNanoTime=true 
+2015/07/02 17:56:58 INFO  - jmeter.samplers.SampleResult: sampleresult.nanoThreadSleep=5000 
+2015/07/02 17:57:07 INFO  - jmeter.services.FileServer: Default base='C:\Dev\Sca.WebCMS\Testing\tools\apache-jmeter-2.13\bin' 
+2015/07/02 17:57:07 INFO  - jmeter.gui.action.Load: Loading file: C:\Dev\Sca.WebCMS\Testing\LoadTest.jmx 
+2015/07/02 17:57:07 INFO  - jmeter.services.FileServer: Set new base='C:\Dev\Sca.WebCMS\Testing' 
+2015/07/02 17:57:07 INFO  - jmeter.save.SaveService: Testplan (JMX) version: 2.2. Testlog (JTL) version: 2.2 
+2015/07/02 17:57:07 INFO  - jmeter.save.SaveService: Using SaveService properties file encoding UTF-8 
+2015/07/02 17:57:07 INFO  - jmeter.save.SaveService: Using SaveService properties file version 1656252 
+2015/07/02 17:57:07 INFO  - jmeter.save.SaveService: Using SaveService properties version 2.8 
+2015/07/02 17:57:07 INFO  - jmeter.save.SaveService: All converter versions present and correct 
+2015/07/02 17:57:07 INFO  - jmeter.save.SaveService: Loading file: C:\Dev\Sca.WebCMS\Testing\LoadTest.jmx 
+2015/07/02 17:57:07 INFO  - jmeter.services.FileServer: Set new base='C:\Dev\Sca.WebCMS\Testing' 
+2015/07/02 17:57:12 INFO  - jmeter.engine.StandardJMeterEngine: Listeners will be started after enabling running version 
+2015/07/02 17:57:12 INFO  - jmeter.engine.StandardJMeterEngine: To revert to the earlier behaviour, define jmeterengine.startlistenerslater=false 
+2015/07/02 17:57:12 INFO  - jmeter.engine.StandardJMeterEngine: Running the test! 
+2015/07/02 17:57:12 INFO  - jmeter.samplers.SampleEvent: List of sample_variables: [] 
+2015/07/02 17:57:12 INFO  - jmeter.samplers.SampleEvent: List of sample_variables: [] 
+2015/07/02 17:57:12 INFO  - jmeter.gui.util.JMeterMenuBar: setRunning(true,*local*) 
+2015/07/02 17:57:12 INFO  - jmeter.engine.StandardJMeterEngine: Starting ThreadGroup: 1 : Thread Group 
+2015/07/02 17:57:12 INFO  - jmeter.engine.StandardJMeterEngine: Starting 1 threads for group Thread Group. 
+2015/07/02 17:57:12 INFO  - jmeter.engine.StandardJMeterEngine: Thread will continue on error 
+2015/07/02 17:57:12 INFO  - jmeter.threads.ThreadGroup: Starting thread group number 1 threads 1 ramp-up 0 perThread 0.0 delayedStart=true 
+2015/07/02 17:57:12 INFO  - jmeter.threads.ThreadGroup: Started thread group number 1 
+2015/07/02 17:57:12 INFO  - jmeter.engine.StandardJMeterEngine: All thread groups have been started 
+2015/07/02 17:57:12 INFO  - jmeter.threads.JMeterThread: jmeterthread.startearlier=true (see jmeter.properties) 
+2015/07/02 17:57:12 INFO  - jmeter.threads.JMeterThread: Running PostProcessors in forward order 
+2015/07/02 17:57:12 INFO  - jmeter.threads.JMeterThread: Thread started: Thread Group 1-1 
+2015/07/02 17:57:12 INFO  - jmeter.util.BeanShellTestElement: #VideoListingPage 
+2015/07/02 17:57:12 INFO  - jmeter.util.BeanShellTestElement: http://uat.2dayfm.com.au/shows/the-dan-maz-show/videos/ 
+2015/07/02 17:57:12 INFO  - jmeter.util.BeanShellTestElement:  
+2015/07/02 17:57:12 INFO  - jmeter.util.BeanShellTestElement: #VideoPage 
+2015/07/02 17:57:12 INFO  - jmeter.util.BeanShellTestElement: http://uat.2dayfm.com.au/shows/the-dan-maz-show/videos/maz-performs-on-xfactor/ 
+2015/07/02 17:57:12 INFO  - jmeter.util.BeanShellTestElement: http://uat.2dayfm.com.au/shows/the-dan-maz-show/videos/ronan-teaches-dan-the-boy-band-fist-pump/ 
+2015/07/02 17:57:12 INFO  - jmeter.util.BeanShellTestElement: http://uat.2dayfm.com.au/shows/the-dan-maz-show/videos/dannii-minogue-mentors-maz-before-her-xfactor-debut/ 
+2015/07/02 17:57:12 INFO  - jmeter.util.BeanShellTestElement: http://uat.2dayfm.com.au/shows/the-dan-maz-show/videos/lets-get-jimmy-fallons-ew-on-the-australian-charts/ 
+2015/07/02 17:57:12 INFO  - jmeter.util.BeanShellTestElement: http://uat.2dayfm.com.au/shows/the-dan-maz-show/videos/dans-xfactor-mentor-session-with-redfoo/ 
+2015/07/02 17:57:12 INFO  - jmeter.util.BeanShellTestElement: http://uat.2dayfm.com.au/shows/the-dan-maz-show/videos/mazs-xfactor-mentor-session-with-nat-bass/ 
+2015/07/02 17:57:12 INFO  - jmeter.util.BeanShellTestElement: http://uat.2dayfm.com.au/shows/the-dan-maz-show/videos/the-veronicas-ruin-the-office-/ 
+2015/07/02 17:57:12 INFO  - jmeter.util.BeanShellTestElement: http://uat.2dayfm.com.au/shows/the-dan-maz-show/videos/slashs-inappropriate-encounter-with-justin-bieber-/ 
+2015/07/02 17:57:12 INFO  - jmeter.util.BeanShellTestElement: http://uat.2dayfm.com.au/shows/the-dan-maz-show/videos/random-acts-of-instruments-suit-tie/ 
+2015/07/02 17:57:12 INFO  - jmeter.util.BeanShellTestElement: http://uat.2dayfm.com.au/shows/the-dan-maz-show/videos/slash-meets-kermit-the-frog/ 
+2015/07/02 17:57:12 INFO  - jmeter.util.BeanShellTestElement:  
+2015/07/02 17:57:12 INFO  - jmeter.util.BeanShellTestElement: #ArticlePage 
+2015/07/02 17:57:12 INFO  - jmeter.util.BeanShellTestElement: http://uat.2dayfm.com.au/scoopla/stars/blog/2015/6/kim-kardashians-dress-catches-on-fire/ 
+2015/07/02 17:57:12 INFO  - jmeter.util.BeanShellTestElement: http://uat.2dayfm.com.au/scoopla/stars/blog/2015/6/how-did-the-world-react-to-caitlyn-jenner/ 
+2015/07/02 17:57:12 INFO  - jmeter.util.BeanShellTestElement: http://uat.2dayfm.com.au/scoopla/stars/blog/2015/6/caitlyn-jenner-slams-kris-she-mistreated-me/ 
+2015/07/02 17:57:12 INFO  - jmeter.util.BeanShellTestElement: http://uat.2dayfm.com.au/scoopla/music/blog/2015/6/is-lady-gaga-pregnant/ 
+2015/07/02 17:57:12 INFO  - jmeter.util.BeanShellTestElement: http://uat.2dayfm.com.au/scoopla/tv/blog/2015/6/married-at-first-sight-contestant-marries-someone-else/ 
+2015/07/02 17:57:12 INFO  - jmeter.util.BeanShellTestElement: http://uat.2dayfm.com.au/scoopla/stars/blog/2015/6/theres-another-fifty-shades-book-coming-and-it-has-a-twist/ 
+2015/07/02 17:57:12 INFO  - jmeter.util.BeanShellTestElement: http://uat.2dayfm.com.au/scoopla/stars/blog/2014/10/jessie-j-defends-ariana-grandes-diva-antics/ 
+2015/07/02 17:57:12 INFO  - jmeter.util.BeanShellTestElement: http://uat.2dayfm.com.au/scoopla/music/blog/2014/10/pnk-teaches-ellen-how-to-harmonise/ 
+2015/07/02 17:57:12 INFO  - jmeter.util.BeanShellTestElement: http://uat.2dayfm.com.au/scoopla/music/blog/2014/10/ed-sheerans-unexpected-dance-inspiration-for-thinking-out-loud-video/ 
+2015/07/02 17:57:12 INFO  - jmeter.util.BeanShellTestElement: http://uat.2dayfm.com.au/scoopla/tv/blog/2014/10/the-blocks-shannon-simon-from-sperm-bank-to-riches/ 
+2015/07/02 17:57:12 INFO  - jmeter.util.BeanShellTestElement:  
+2015/07/02 17:57:12 INFO  - jmeter.util.BeanShellTestElement: #ArticleListingPage 
+2015/07/02 17:57:12 INFO  - jmeter.util.BeanShellTestElement: http://uat.2dayfm.com.au/shows/the-dan-maz-show/blog/ 
+2015/07/02 17:57:12 INFO  - jmeter.util.BeanShellTestElement:  
+2015/07/02 17:57:12 INFO  - jmeter.util.BeanShellTestElement: #HomePage 
+2015/07/02 17:57:12 INFO  - jmeter.util.BeanShellTestElement: http://uat.2dayfm.com.au/ 
+2015/07/02 17:57:12 INFO  - jmeter.util.BeanShellTestElement:  
+2015/07/02 17:57:12 INFO  - jmeter.util.BeanShellTestElement: #SonglMediaPlayer 
+2015/07/02 17:57:12 INFO  - jmeter.util.BeanShellTestElement: http://uat.2dayfm.com.au/player/ 
+2015/07/02 17:57:12 INFO  - jmeter.util.BeanShellTestElement:  
+2015/07/02 17:57:12 INFO  - jmeter.util.BeanShellTestElement: #ShowPage 
+2015/07/02 17:57:12 INFO  - jmeter.util.BeanShellTestElement: http://uat.2dayfm.com.au/shows/the-dan-maz-show/ 
+2015/07/02 17:57:12 INFO  - jmeter.util.BeanShellTestElement:  
+2015/07/02 17:57:12 INFO  - jmeter.util.BeanShellTestElement: #CompetitionListingPage 
+2015/07/02 17:57:12 INFO  - jmeter.util.BeanShellTestElement: http://uat.2dayfm.com.au/shows/the-dan-maz-show/win/ 
+2015/07/02 17:57:12 INFO  - jmeter.util.BeanShellTestElement:  
+2015/07/02 17:57:12 INFO  - jmeter.util.BeanShellTestElement: #CompetitionPage 
+2015/07/02 17:57:12 INFO  - jmeter.util.BeanShellTestElement: http://uat.2dayfm.com.au/win/supanova/ 
+2015/07/02 17:57:12 INFO  - jmeter.util.BeanShellTestElement: http://uat.2dayfm.com.au/win/tab-soo2/ 
+2015/07/02 17:57:12 INFO  - jmeter.util.BeanShellTestElement: http://uat.2dayfm.com.au/win/random-rewards/ 
+2015/07/02 17:57:12 INFO  - jmeter.util.BeanShellTestElement: http://uat.2dayfm.com.au/win/winners/ 
+2015/07/02 17:57:12 INFO  - jmeter.util.BeanShellTestElement: http://uat.2dayfm.com.au/win/?Feed=RSS 
+2015/07/02 17:57:12 INFO  - jmeter.util.BeanShellTestElement:  
+2015/07/02 17:57:12 INFO  - jmeter.util.BeanShellTestElement: #PodcastListingPage 
+2015/07/02 17:57:12 INFO  - jmeter.util.BeanShellTestElement: http://uat.2dayfm.com.au/shows/the-dan-maz-show/podcasts/ 
+2015/07/02 17:57:12 INFO  - jmeter.util.BeanShellTestElement:  
+2015/07/02 17:57:12 INFO  - jmeter.util.BeanShellTestElement: #PodcastPage 
+2015/07/02 17:57:12 INFO  - jmeter.util.BeanShellTestElement: http://uat.2dayfm.com.au/shows/the-dan-maz-show/podcasts/the-dan-maz-show-11th-june-2015/ 
+2015/07/02 17:57:12 INFO  - jmeter.util.BeanShellTestElement:  
+2015/07/02 17:57:12 INFO  - jmeter.util.BeanShellTestElement: #StandardPage 
+2015/07/02 17:57:12 INFO  - jmeter.util.BeanShellTestElement: http://uat.2dayfm.com.au/shows/the-dan-maz-show/contact-us/ 
+2015/07/02 17:57:12 INFO  - jmeter.util.BeanShellTestElement:  
+2015/07/02 17:57:12 INFO  - jmeter.util.BeanShellTestElement: #Tags 
+2015/07/02 17:57:12 INFO  - jmeter.util.BeanShellTestElement: http://uat.2dayfm.com.au/tags/bump 
+2015/07/02 17:57:12 INFO  - jmeter.util.BeanShellTestElement: http://uat.2dayfm.com.au/tags/shazamtop20 
+2015/07/02 17:57:12 INFO  - jmeter.util.BeanShellTestElement: http://uat.2dayfm.com.au/tags/scoopla 
+2015/07/02 17:57:12 INFO  - jmeter.util.BeanShellTestElement: http://uat.2dayfm.com.au/tags/life 
+2015/07/02 17:57:12 INFO  - jmeter.util.BeanShellTestElement: http://uat.2dayfm.com.au/tags/family%20feud 
+2015/07/02 17:57:12 INFO  - jmeter.util.BeanShellTestElement: http://uat.2dayfm.com.au/tags/steve%20harvey 
+2015/07/02 17:57:12 INFO  - jmeter.util.BeanShellTestElement: http://uat.2dayfm.com.au/tags/grant%20denyer 
+2015/07/02 17:57:12 INFO  - jmeter.util.BeanShellTestElement: http://uat.2dayfm.com.au/tags/awkward 
+2015/07/02 17:57:12 INFO  - jmeter.util.BeanShellTestElement: http://uat.2dayfm.com.au/tags/selfies 
+2015/07/02 17:57:12 INFO  - jmeter.util.BeanShellTestElement: http://uat.2dayfm.com.au/tags/perfectly%20timed 
+2015/07/02 17:57:12 INFO  - jmeter.util.BeanShellTestElement:  
+2015/07/02 17:57:12 INFO  - jmeter.util.BeanShellTestElement: #ImageGalleryListingPage 
+2015/07/02 17:57:12 INFO  - jmeter.util.BeanShellTestElement: http://uat.2dayfm.com.au/photos/ 
+2015/07/02 17:57:12 INFO  - jmeter.util.BeanShellTestElement:  
+2015/07/02 17:57:12 INFO  - jmeter.util.BeanShellTestElement: #ImageGalleryPage 
+2015/07/02 17:57:12 INFO  - jmeter.util.BeanShellTestElement: http://uat.2dayfm.com.au/shows/the-dan-maz-show/photos/dan-maz-snapchat-challenge-1-derp-face/ 
+2015/07/02 17:57:12 INFO  - jmeter.util.BeanShellTestElement: http://uat.2dayfm.com.au/shows/the-dan-maz-show/photos/all-the-babewatch-babes/ 
+2015/07/02 17:57:12 INFO  - jmeter.util.BeanShellTestElement: http://uat.2dayfm.com.au/shows/the-dan-maz-show/photos/hilltop-hoods-world-famous-rooftop-gallery/ 
+2015/07/02 17:57:12 INFO  - jmeter.util.BeanShellTestElement: http://uat.2dayfm.com.au/photos/hilltop-hoods-world-famous-rooftop/ 
+2015/07/02 17:57:12 INFO  - jmeter.util.BeanShellTestElement: http://uat.2dayfm.com.au/music/world-famous-rooftop/photos/hilltop-hoods-on-the-world-famous-rooftop/ 
+2015/07/02 17:57:12 INFO  - jmeter.util.BeanShellTestElement: http://uat.2dayfm.com.au/music/world-famous-rooftop/photos/ed-sheeran-on-the-world-famous-rooftop/ 
+2015/07/02 17:57:12 INFO  - jmeter.util.BeanShellTestElement: http://uat.2dayfm.com.au/shows/the-dan-maz-show/photos/kaylas-army-2day-fm-bootcamp-photos/ 
+2015/07/02 17:57:12 INFO  - jmeter.util.BeanShellTestElement: http://uat.2dayfm.com.au/shows/the-dan-maz-show/photos/kayla-bootcamp-gallery/ 
+2015/07/02 17:57:12 INFO  - jmeter.util.BeanShellTestElement: http://uat.2dayfm.com.au/scoopla/life/94386/nasty-notes-left-after-crap-car-park-effort/ 
+2015/07/02 17:57:12 INFO  - jmeter.util.BeanShellTestElement: http://uat.2dayfm.com.au/scoopla/music/galleries/one-direction-live-in-australia-2015/ 
+2015/07/02 17:57:12 INFO  - jmeter.util.BeanShellTestElement:  
+2015/07/02 17:57:12 INFO  - jmeter.util.BeanShellTestElement: #ShowSchedulePage 
+2015/07/02 17:57:12 INFO  - jmeter.util.BeanShellTestElement: http://uat.2dayfm.com.au/shows/on-air-schedule/ 
+2015/07/02 17:57:12 INFO  - jmeter.util.BeanShellTestElement: Randomizing list of URLs 
+2015/07/02 17:57:12 INFO  - jmeter.util.BeanShellTestElement: Loaded: http://uat.2dayfm.com.au/shows/the-dan-maz-show/blog/ 
+2015/07/02 17:57:12 INFO  - jmeter.util.BeanShellTestElement: Loaded: http://uat.2dayfm.com.au/shows/the-dan-maz-show/contact-us/ 
+2015/07/02 17:57:12 INFO  - jmeter.util.BeanShellTestElement: Loaded: http://uat.2dayfm.com.au/shows/the-dan-maz-show/photos/dan-maz-snapchat-challenge-1-derp-face/ 
+2015/07/02 17:57:12 INFO  - jmeter.util.BeanShellTestElement: Loaded: http://uat.2dayfm.com.au/win/winners/ 
+2015/07/02 17:57:12 INFO  - jmeter.util.BeanShellTestElement: Loaded: http://uat.2dayfm.com.au/shows/the-dan-maz-show/photos/all-the-babewatch-babes/ 
+2015/07/02 17:57:12 INFO  - jmeter.util.BeanShellTestElement: Loaded: http://uat.2dayfm.com.au/win/random-rewards/ 
+2015/07/02 17:57:12 INFO  - jmeter.util.BeanShellTestElement: Loaded: http://uat.2dayfm.com.au/shows/the-dan-maz-show/videos/ronan-teaches-dan-the-boy-band-fist-pump/ 
+2015/07/02 17:57:12 INFO  - jmeter.util.BeanShellTestElement: Loaded: http://uat.2dayfm.com.au/tags/steve%20harvey 
+2015/07/02 17:57:12 INFO  - jmeter.util.BeanShellTestElement: Loaded: http://uat.2dayfm.com.au/shows/the-dan-maz-show/podcasts/ 
+2015/07/02 17:57:12 INFO  - jmeter.util.BeanShellTestElement: Loaded: http://uat.2dayfm.com.au/tags/scoopla 
+2015/07/02 17:57:12 INFO  - jmeter.util.BeanShellTestElement: Loaded: http://uat.2dayfm.com.au/shows/on-air-schedule/ 
+2015/07/02 17:57:12 INFO  - jmeter.util.BeanShellTestElement: Loaded: http://uat.2dayfm.com.au/shows/the-dan-maz-show/videos/random-acts-of-instruments-suit-tie/ 
+2015/07/02 17:57:12 INFO  - jmeter.util.BeanShellTestElement: Loaded: http://uat.2dayfm.com.au/win/supanova/ 
+2015/07/02 17:57:12 INFO  - jmeter.util.BeanShellTestElement: Loaded: http://uat.2dayfm.com.au/tags/grant%20denyer 
+2015/07/02 17:57:12 INFO  - jmeter.util.BeanShellTestElement: Loaded: http://uat.2dayfm.com.au/shows/the-dan-maz-show/win/ 
+2015/07/02 17:57:12 INFO  - jmeter.util.BeanShellTestElement: Loaded: http://uat.2dayfm.com.au/scoopla/music/blog/2014/10/ed-sheerans-unexpected-dance-inspiration-for-thinking-out-loud-video/ 
+2015/07/02 17:57:12 INFO  - jmeter.util.BeanShellTestElement: Loaded: http://uat.2dayfm.com.au/tags/perfectly%20timed 
+2015/07/02 17:57:12 INFO  - jmeter.util.BeanShellTestElement: Loaded: http://uat.2dayfm.com.au/scoopla/music/blog/2014/10/pnk-teaches-ellen-how-to-harmonise/ 
+2015/07/02 17:57:12 INFO  - jmeter.util.BeanShellTestElement: Loaded: http://uat.2dayfm.com.au/shows/the-dan-maz-show/videos/the-veronicas-ruin-the-office-/ 
+2015/07/02 17:57:12 INFO  - jmeter.util.BeanShellTestElement: Loaded: http://uat.2dayfm.com.au/scoopla/stars/blog/2015/6/caitlyn-jenner-slams-kris-she-mistreated-me/ 
+2015/07/02 17:57:12 INFO  - jmeter.util.BeanShellTestElement: Loaded: http://uat.2dayfm.com.au/shows/the-dan-maz-show/videos/slashs-inappropriate-encounter-with-justin-bieber-/ 
+2015/07/02 17:57:12 INFO  - jmeter.util.BeanShellTestElement: Loaded: http://uat.2dayfm.com.au/tags/bump 
+2015/07/02 17:57:12 INFO  - jmeter.util.BeanShellTestElement: Loaded: http://uat.2dayfm.com.au/shows/the-dan-maz-show/videos/lets-get-jimmy-fallons-ew-on-the-australian-charts/ 
+2015/07/02 17:57:12 INFO  - jmeter.util.BeanShellTestElement: Loaded: http://uat.2dayfm.com.au/scoopla/tv/blog/2015/6/married-at-first-sight-contestant-marries-someone-else/ 
+2015/07/02 17:57:12 INFO  - jmeter.util.BeanShellTestElement: Loaded: http://uat.2dayfm.com.au/music/world-famous-rooftop/photos/hilltop-hoods-on-the-world-famous-rooftop/ 
+2015/07/02 17:57:12 INFO  - jmeter.util.BeanShellTestElement: Loaded: http://uat.2dayfm.com.au/scoopla/stars/blog/2015/6/how-did-the-world-react-to-caitlyn-jenner/ 
+2015/07/02 17:57:12 INFO  - jmeter.util.BeanShellTestElement: Loaded: http://uat.2dayfm.com.au/scoopla/life/94386/nasty-notes-left-after-crap-car-park-effort/ 
+2015/07/02 17:57:12 INFO  - jmeter.util.BeanShellTestElement: Loaded: http://uat.2dayfm.com.au/shows/the-dan-maz-show/photos/kayla-bootcamp-gallery/ 
+2015/07/02 17:57:12 INFO  - jmeter.util.BeanShellTestElement: Loaded: http://uat.2dayfm.com.au/shows/the-dan-maz-show/podcasts/the-dan-maz-show-11th-june-2015/ 
+2015/07/02 17:57:12 INFO  - jmeter.util.BeanShellTestElement: Loaded: http://uat.2dayfm.com.au/tags/life 
+2015/07/02 17:57:12 INFO  - jmeter.util.BeanShellTestElement: Loaded: http://uat.2dayfm.com.au/scoopla/tv/blog/2014/10/the-blocks-shannon-simon-from-sperm-bank-to-riches/ 
+2015/07/02 17:57:12 INFO  - jmeter.util.BeanShellTestElement: Loaded: http://uat.2dayfm.com.au/tags/awkward 
+2015/07/02 17:57:12 INFO  - jmeter.util.BeanShellTestElement: Loaded: http://uat.2dayfm.com.au/shows/the-dan-maz-show/ 
+2015/07/02 17:57:12 INFO  - jmeter.util.BeanShellTestElement: Loaded: http://uat.2dayfm.com.au/scoopla/stars/blog/2014/10/jessie-j-defends-ariana-grandes-diva-antics/ 
+2015/07/02 17:57:12 INFO  - jmeter.util.BeanShellTestElement: Loaded: http://uat.2dayfm.com.au/scoopla/music/blog/2015/6/is-lady-gaga-pregnant/ 
+2015/07/02 17:57:12 INFO  - jmeter.util.BeanShellTestElement: Loaded: http://uat.2dayfm.com.au/photos/hilltop-hoods-world-famous-rooftop/ 
+2015/07/02 17:57:12 INFO  - jmeter.util.BeanShellTestElement: Loaded: http://uat.2dayfm.com.au/tags/shazamtop20 
+2015/07/02 17:57:12 INFO  - jmeter.util.BeanShellTestElement: Loaded: http://uat.2dayfm.com.au/player/ 
+2015/07/02 17:57:12 INFO  - jmeter.util.BeanShellTestElement: Loaded: http://uat.2dayfm.com.au/shows/the-dan-maz-show/videos/ 
+2015/07/02 17:57:12 INFO  - jmeter.util.BeanShellTestElement: Loaded: http://uat.2dayfm.com.au/tags/selfies 
+2015/07/02 17:57:12 INFO  - jmeter.util.BeanShellTestElement: Loaded: http://uat.2dayfm.com.au/shows/the-dan-maz-show/photos/hilltop-hoods-world-famous-rooftop-gallery/ 
+2015/07/02 17:57:12 INFO  - jmeter.util.BeanShellTestElement: Loaded: http://uat.2dayfm.com.au/shows/the-dan-maz-show/videos/dans-xfactor-mentor-session-with-redfoo/ 
+2015/07/02 17:57:12 INFO  - jmeter.util.BeanShellTestElement: Loaded: http://uat.2dayfm.com.au/shows/the-dan-maz-show/photos/kaylas-army-2day-fm-bootcamp-photos/ 
+2015/07/02 17:57:12 INFO  - jmeter.util.BeanShellTestElement: Loaded: http://uat.2dayfm.com.au/ 
+2015/07/02 17:57:12 INFO  - jmeter.util.BeanShellTestElement: Loaded: http://uat.2dayfm.com.au/win/?Feed=RSS 
+2015/07/02 17:57:12 INFO  - jmeter.util.BeanShellTestElement: Loaded: http://uat.2dayfm.com.au/shows/the-dan-maz-show/videos/mazs-xfactor-mentor-session-with-nat-bass/ 
+2015/07/02 17:57:12 INFO  - jmeter.util.BeanShellTestElement: Loaded: http://uat.2dayfm.com.au/photos/ 
+2015/07/02 17:57:12 INFO  - jmeter.util.BeanShellTestElement: Loaded: http://uat.2dayfm.com.au/shows/the-dan-maz-show/videos/dannii-minogue-mentors-maz-before-her-xfactor-debut/ 
+2015/07/02 17:57:12 INFO  - jmeter.util.BeanShellTestElement: Loaded: http://uat.2dayfm.com.au/music/world-famous-rooftop/photos/ed-sheeran-on-the-world-famous-rooftop/ 
+2015/07/02 17:57:12 INFO  - jmeter.util.BeanShellTestElement: Loaded: http://uat.2dayfm.com.au/tags/family%20feud 
+2015/07/02 17:57:12 INFO  - jmeter.util.BeanShellTestElement: Loaded: http://uat.2dayfm.com.au/scoopla/stars/blog/2015/6/theres-another-fifty-shades-book-coming-and-it-has-a-twist/ 
+2015/07/02 17:57:12 INFO  - jmeter.util.BeanShellTestElement: Loaded: http://uat.2dayfm.com.au/scoopla/music/galleries/one-direction-live-in-australia-2015/ 
+2015/07/02 17:57:12 INFO  - jmeter.util.BeanShellTestElement: Loaded: http://uat.2dayfm.com.au/win/tab-soo2/ 
+2015/07/02 17:57:12 INFO  - jmeter.util.BeanShellTestElement: Loaded: http://uat.2dayfm.com.au/shows/the-dan-maz-show/videos/maz-performs-on-xfactor/ 
+2015/07/02 17:57:12 INFO  - jmeter.util.BeanShellTestElement: Loaded: http://uat.2dayfm.com.au/shows/the-dan-maz-show/videos/slash-meets-kermit-the-frog/ 
+2015/07/02 17:57:12 INFO  - jmeter.util.BeanShellTestElement: Loaded: http://uat.2dayfm.com.au/scoopla/stars/blog/2015/6/kim-kardashians-dress-catches-on-fire/ 
+2015/07/02 17:57:12 INFO  - jmeter.util.BeanShellTestElement: Loaded 56 urls 
+2015/07/02 17:57:12 INFO  - jmeter.protocol.http.sampler.HTTPHCAbstractImpl: Local host = SYD-DIG-TB01 
+2015/07/02 17:57:12 INFO  - jmeter.protocol.http.sampler.HTTPHC4Impl: HTTP request retry count = 0 
+2015/07/02 17:57:12 INFO  - jmeter.protocol.http.sampler.HTTPHC4Impl: Setting up HTTPS TrustAll scheme 
+2015/07/02 17:57:12 INFO  - jmeter.util.JsseSSLManager: Using default SSL protocol: TLS 
+2015/07/02 17:57:12 INFO  - jmeter.util.JsseSSLManager: SSL session context: per-thread 
+2015/07/02 17:57:24 INFO  - jmeter.protocol.http.parser.HTMLParser: Created org.apache.jmeter.protocol.http.parser.LagartoBasedHtmlParser 
+2015/07/02 18:08:16 INFO  - jmeter.threads.JMeterThread: Thread is done: Thread Group 1-1 
+2015/07/02 18:08:16 INFO  - jmeter.threads.JMeterThread: Thread finished: Thread Group 1-1 
+2015/07/02 18:08:16 INFO  - jmeter.engine.StandardJMeterEngine: Notifying test listeners of end of test 
+2015/07/02 18:08:16 INFO  - jmeter.gui.util.JMeterMenuBar: setRunning(false,*local*) 
